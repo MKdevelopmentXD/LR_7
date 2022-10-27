@@ -158,3 +158,18 @@ div.container1 p{
     .menu-main li {display: block;}
   }
 
+.bu{
+  display: block;
+  margin: 5% auto 0 auto;
+  min-width: 20%;
+  border: 5px solid rgb(23, 22, 22);
+  border-radius: 10px;
+  background-color: rgb(157, 188, 35);
+  color: rgb(203, 203, 215);
+}
+
+#idButton {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}
